@@ -2390,9 +2390,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-bootstrap@npm:^2.1.0":
-  version: 2.1.0
-  resolution: "react-bootstrap@npm:2.1.0"
+"react-bootstrap@npm:^2.1.1":
+  version: 2.1.1
+  resolution: "react-bootstrap@npm:2.1.1"
   dependencies:
     "@babel/runtime": ^7.14.0
     "@restart/hooks": ^0.4.5
@@ -2413,7 +2413,7 @@ __metadata:
   peerDependencies:
     react: ">=16.14.0"
     react-dom: ">=16.14.0"
-  checksum: 2b82a877c06646d7b58343f66b0c5e70c90ed08625e096bea06667a10ade456116b9bf15f749a0ef5a6850c3a4373807e121b8da549cd898380541ede24e629a
+  checksum: 9d25fcd9dbfdcb930f40e6792f0e5124a1d0dfdf97ff030042b0053cb8b8682debda6576abf8f59cd4c7e2890ef0ab5730496973e568642d76b32a1f16e8127c
   languageName: node
   linkType: hard
 
@@ -3263,7 +3263,7 @@ __metadata:
     bootstrap: ^5.1.3
     node-sass: ^7.0.1
     react: ^17.0.2
-    react-bootstrap: ^2.1.0
+    react-bootstrap: ^2.1.1
     react-dom: ^17.0.2
     react-icons: ^4.3.1
     typescript: ^4.5.4
