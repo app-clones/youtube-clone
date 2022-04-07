@@ -34,7 +34,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["@types/react", "npm:17.0.38"],\
-            ["@types/react-dom", "npm:17.0.14"],\
+            ["@types/react-dom", "npm:17.0.15"],\
             ["@vitejs/plugin-react", "npm:1.3.0"],\
             ["bootstrap", "virtual:ff0463a09cb928294548ea838f59d8e5fdd7010b03d56eef53b6e3c57d05228788ce709b02bfb8b05c4e05e95e4d004d020c1489cb10a6cb0ace61651b529849#npm:5.1.3"],\
             ["node-sass", "npm:7.0.1"],\
@@ -673,7 +673,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@react-aria/ssr", "virtual:aebe12100b245a3ac8700c4da41ad936c3a164422c94d6176002f913b86321894f4ff3116740ba6685aba45c86b61ca14d8134bc8f4f9cbe4fd2e5f6f768a4e0#npm:3.1.0"],\
             ["@restart/hooks", "virtual:aebe12100b245a3ac8700c4da41ad936c3a164422c94d6176002f913b86321894f4ff3116740ba6685aba45c86b61ca14d8134bc8f4f9cbe4fd2e5f6f768a4e0#npm:0.4.5"],\
             ["@types/react", "npm:17.0.38"],\
-            ["@types/react-dom", "npm:17.0.14"],\
+            ["@types/react-dom", "npm:17.0.15"],\
             ["@types/warning", "npm:3.0.0"],\
             ["dequal", "npm:2.0.2"],\
             ["dom-helpers", "npm:5.2.1"],\
@@ -757,14 +757,24 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["csstype", "npm:3.0.10"]\
           ],\
           "linkType": "HARD"\
+        }],\
+        ["npm:17.0.44", {\
+          "packageLocation": "./.yarn/cache/@types-react-npm-17.0.44-c365a80b6e-ebee02778c.zip/node_modules/@types/react/",\
+          "packageDependencies": [\
+            ["@types/react", "npm:17.0.44"],\
+            ["@types/prop-types", "npm:15.7.4"],\
+            ["@types/scheduler", "npm:0.16.2"],\
+            ["csstype", "npm:3.0.10"]\
+          ],\
+          "linkType": "HARD"\
         }]\
       ]],\
       ["@types/react-dom", [\
-        ["npm:17.0.14", {\
-          "packageLocation": "./.yarn/cache/@types-react-dom-npm-17.0.14-d1c78a4e4e-b54cd0ef57.zip/node_modules/@types/react-dom/",\
+        ["npm:17.0.15", {\
+          "packageLocation": "./.yarn/cache/@types-react-dom-npm-17.0.15-0c1324b974-7b90372bd7.zip/node_modules/@types/react-dom/",\
           "packageDependencies": [\
-            ["@types/react-dom", "npm:17.0.14"],\
-            ["@types/react", "npm:17.0.38"]\
+            ["@types/react-dom", "npm:17.0.15"],\
+            ["@types/react", "npm:17.0.44"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -3045,7 +3055,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/invariant", "npm:2.2.35"],\
             ["@types/prop-types", "npm:15.7.4"],\
             ["@types/react", "npm:17.0.38"],\
-            ["@types/react-dom", "npm:17.0.14"],\
+            ["@types/react-dom", "npm:17.0.15"],\
             ["@types/react-transition-group", "npm:4.4.4"],\
             ["@types/warning", "npm:3.0.0"],\
             ["classnames", "npm:2.3.1"],\
@@ -3155,7 +3165,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-transition-group", "virtual:f5a54a19f2d0cd7ee70867bfc573ed183c48da42ea6708fad94a38fc58cd53335bc0489358d77881621af001f8e43a0a0a64c2ccbdc11f505dd6f044daeeb6f2#npm:4.4.2"],\
             ["@babel/runtime", "npm:7.16.7"],\
             ["@types/react", "npm:17.0.38"],\
-            ["@types/react-dom", "npm:17.0.14"],\
+            ["@types/react-dom", "npm:17.0.15"],\
             ["dom-helpers", "npm:5.2.1"],\
             ["loose-envify", "npm:1.4.0"],\
             ["prop-types", "npm:15.8.1"],\
@@ -4006,7 +4016,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["youtube-clone", "workspace:."],\
             ["@types/react", "npm:17.0.38"],\
-            ["@types/react-dom", "npm:17.0.14"],\
+            ["@types/react-dom", "npm:17.0.15"],\
             ["@vitejs/plugin-react", "npm:1.3.0"],\
             ["bootstrap", "virtual:ff0463a09cb928294548ea838f59d8e5fdd7010b03d56eef53b6e3c57d05228788ce709b02bfb8b05c4e05e95e4d004d020c1489cb10a6cb0ace61651b529849#npm:5.1.3"],\
             ["node-sass", "npm:7.0.1"],\
